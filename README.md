@@ -1,2 +1,2 @@
-# login
-just a login form in Django
+#login
+A django powered login app
